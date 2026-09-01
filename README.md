@@ -2,7 +2,7 @@
 
 **An end-to-end empirical research workflow in Python and R**
 
-This portfolio project examines whether oil-price shocks reduce capital investment among U.S. manufacturing firms and whether responses are larger in energy-intensive industries. It demonstrates a complete empirical research workflow, from raw financial and industry data preparation to panel-data estimation, dynamic inference, structural oil-shock decomposition, robustness checks, and publication-ready outputs.
+This portfolio project examines whether oil price shocks reduce capital investment among U.S. manufacturing firms and whether responses are larger in energy-intensive industries. It demonstrates a complete empirical research workflow, from raw financial and industry data preparation to panel-data estimation, dynamic inference, structural oil-shock decomposition, robustness checks, and publication-ready outputs.
 
 ## Research Question
 
@@ -28,8 +28,8 @@ Monthly structural oil shocks --> R fiscal-year alignment
                      +------------+-------------+
                      |            |             |
                      v            v             v
-              Reduced-form   Dynamic      Shock decomposition
-                 models      effects
+              Reduced-form    Dynamic      Shock decomposition
+                 models       effects
                      |            |             |
                      +------------+-------------+
                                   |
