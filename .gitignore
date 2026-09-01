@@ -1,0 +1,41 @@
+# Raw and processed data
+data/raw/*
+data/processed/*
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.rds
+*.RData
+
+# Keep documentation and folder placeholders
+!data/README.md
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Outputs generated from proprietary data
+output/tables/*
+output/*.txt
+*.log
+
+# Keep output documentation and folder placeholders
+!output/README.md
+!output/tables/.gitkeep
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*_cache/
+*_files/
+*.aux
+*.out
+*.toc
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
