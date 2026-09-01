@@ -6,7 +6,7 @@ This portfolio project examines whether oil-price shocks reduce capital investme
 
 ## Research Question
 
-Do positive oil-price shocks reduce firm-level capital investment, and are these effects larger among firms operating in energy-intensive manufacturing industries?
+How do oil price shocks affect firm-level capital investment among U.S. manufacturing firms, and do firms in more energy-intensive industries respond differently from other firms?
 
 ## Project Overview
 
